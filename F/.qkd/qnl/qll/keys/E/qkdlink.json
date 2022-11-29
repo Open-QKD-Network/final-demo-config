@@ -1,0 +1,6 @@
+{
+    "localQKDDeviceId": "E_F_F",
+    "remoteQKDDeviceId": "E_F_E",
+    "localSiteAgentUrl": "192.168.0.230:9100",
+    "remoteSiteAgentUrl": "35.178.178.100:9100"
+}

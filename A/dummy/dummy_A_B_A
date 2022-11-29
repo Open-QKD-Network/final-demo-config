@@ -1,0 +1,12 @@
+{
+    "controlParams": {
+        "config": {
+            "id": "A_B_A",
+            "side": "Alice",
+            "kind": "dummyqkd"
+        },
+        "bindAddress": "172.31.14.196:9101",
+        "controlAddress": "18.134.7.158:9101",
+        "siteAgentAddress": "172.31.14.196:9100"
+    }
+}

@@ -1,0 +1,16 @@
+base: .qkd/qnl
+routeConfigLoc: routes.json
+qnlSiteKeyLoc: qll/keys
+qkdLinkConfigLoc: qkdlink.json
+siteAgentConfigLoc: siteagent.json
+siteId: C
+port: 9292
+keyBytesSz: 32
+keyBlockSz: 4 
+qllBlockSz: 4096 
+headerSz: 132
+kmsIP: localhost
+kmsPort: 9393
+OTPConfig:
+ keyBlockSz: 4
+ keyLoc: otp/keys
